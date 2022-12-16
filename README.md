@@ -1,5 +1,5 @@
 ###                                   <h1 align="center"> <span>Hi 👋 I'm buğra<span/></h1>  
- <h3> I graduated statistic. I am currently working on frontend development. 
+ <h3> I graduated in statistics. I am currently working on frontend development. 
  I love coding and new technologies. I am improving myself in this area.<h3/> <hr>
  ⭐️ I’m currently working on Frontend Development<br><br/>
  ⭐️ I’m currently learning React & Redux.<br><br/>
