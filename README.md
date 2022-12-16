@@ -1,6 +1,6 @@
 ###                                   <h1 align="center"> <span>Hi 👋 I'm buğra<span/></h1>  
- <h5> I graduated from Eskişehir Osmangazi university at statistic. I am developing and working on frontend.<br/> 
- I love coding and new technologys. I am improving myself in this area.<h5/> <br><br/> <hr>
+ <h3> I graduated from Eskişehir Osmangazi university at statistic. I am developing and working on frontend.<br/> 
+ I love coding and new technologys. I am improving myself in this area.<h3/> <hr>
  ⭐️ I’m currently working on Frontend Development<br><br/>
  ⭐️ I’m currently learning React & Redux.<br><br/>
  📬 How to reach me bugrasarilan@gmail.com<br><br/>
